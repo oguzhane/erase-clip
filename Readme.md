@@ -19,6 +19,6 @@ This program is licensed under the MIT License. See the LICENSE file for more in
 # Acknowledgments
 Thanks to following projects from Go community.
 
-[golang.design/x/hotkey](https://github.com/golang.design/x/hotkey)
+[github.com/golang-design/hotkey](github.com/golang-design/hotkey)
 
-[github.com/zzl/go-winrtapi/winrt](https://github.com/zzl/go-winrtapi/winrt)
+[github.com/zzl/go-winrtapi](https://github.com/zzl/go-winrtapi)
